@@ -1,0 +1,36 @@
+Simptom,Anamneza,Dijagnoza,Terapija
+Temperatura,/,Docije boginje,Kucno lecenje
+Gnoj u grlu,/,Gnojna angina,Penicilin
+Bol u uhu,/,Upala uha,Antibiotik
+Crvenilo u grlu,/,Upala grla,Kucno lecenje
+Pojacano mokrenje,/,Upala besike,Antibiotik
+Svrab ociju,/,Alergija,Nixar
+Otezano disanje,/,Astma,Ventolin
+Kasalj,/,Prehlada,Kucno lecenje
+Pojacan apetit,/,Dijabetes,Insulin
+Temperatura,/,Gnojna angina,Penicilin
+Sekret iz uha,/,Upala uha,Antibiotik
+Temperatura,/,Upala grla,Kucno lecenje
+Peckanje tokom mokrenja,/,Upala besike,Antibiotik
+Kijanje,/,Alergija,Nixar
+Plikovi,/,Alergija,Nixar
+Kasalj,/,Astma,Ventolin
+Kratak dah,/,Astma,Ventolin
+Kijanje,/,Prehlada,Kucno lecenje
+Temperatura,/,Prehlada,Kucno lecenje
+Pojacano mokrenje,/,Dijabetes,Insulin
+Umor,/,Dijabetes,Insulin
+Slabiji vid,/,Dijabetes,Insulin
+Kasalj,/,Upala sinusa,Penicilin i makrolidi
+Temperatura,/,Upala sinusa,Penicilin i makrolidi
+Gnojni sekret iz nosa,/,Upala sinusa,Penicilin i makrolidi
+Otezano disanje,/,Bronhitis,Antibiotik
+Otezano disanje,/,Bronhitis,Antibiotik
+Kasalj,/,Bronhitis,Antibiotik
+Kasalj,/,Pneumonija,Antibiotik
+Temperatura,/,Pneumonija,Antibiotik
+Malaksalost,/,Pneumonija,Antibiotik
+Bol u stomaku,/,Trovanje hranom,Infuzija i rehidratacija
+Mucnina,/,Trovanje hranom,Infuzija i rehidratacija
+Povracanje,/,Trovanje hranom,Infuzija i rehidratacija
+Temperatura,/,Trovanje hranom,Infuzija i rehidratacija
