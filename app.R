@@ -10,11 +10,14 @@ ui <- fluidPage(
     # Sidebar with a slider input for number of bins 
     sidebarLayout(
         sidebarPanel(
-           selectInput(inputId="symptom-list", label="Label",choices=as.character(unique(dataframe$Simptom)))
+            #as.character(unique(dataframe$Simptom))
+           selectInput(inputId="symptom-list", label="Label",choices="bad")
         ),
 
         # Show a plot of the generated distribution
         mainPanel(
+            h3("dsdsd"),
+         
         )
     )
 )
